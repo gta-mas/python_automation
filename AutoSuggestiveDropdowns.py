@@ -23,5 +23,13 @@ for country in countries:
         country.click()
         break
 
+time.sleep(2)
+
+# extracting text from dynamically updated value through script
+print(driver.find_element(By.ID, "autosuggest").get_attribute("value"))
+assert (driver.find_element(By.ID, "autosuggest").get_attribute("value")) == "India"
+
+
+
 driver.close()
 
