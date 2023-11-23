@@ -21,10 +21,10 @@ class TestOne(BaseClass):
         # //a[contains(@href,'shop')] - XPATH   a[href*='shop'] - CSS
         # self.driver.find_element(By.CSS_SELECTOR, "a[href*='shop']").click()
         home_page = HomePage(self.driver)
-        home_page.shopItems().click()
+        checkout_page = home_page.shopItems()
 
         # products = self.driver.find_elements(By.XPATH, "//div[@class='card h-100']")
-        checkout_page = CheckoutPage(self.driver)
+        # checkout_page = CheckoutPage(self.driver) - cleaned up
         products = checkout_page.getCardTitle()
         for product in products:
             product_name = product.find_element(By.XPATH, "div/h4/a").text
@@ -37,7 +37,7 @@ class TestOne(BaseClass):
 
         # self.driver.find_element(By.XPATH, "//button[@class='btn btn-success']").click()
         checkout_success = CheckoutPage(self.driver)
-        checkout_success.checkoutSuccess().click()
+        confirm_page = checkout_success.checkoutSuccess()
 
         # self.driver.find_element(By.ID, "country").send_keys("slov")
         get_country = ConfirmPage(self.driver)

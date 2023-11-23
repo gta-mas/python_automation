@@ -1,5 +1,7 @@
 from selenium.webdriver.common.by import By
 
+from pytestss_demo.confirm_page import ConfirmPage
+
 
 class CheckoutPage:
 
@@ -20,7 +22,10 @@ class CheckoutPage:
 #       driver.find_element(By.CSS_SELECTOR, "a[class*='btn-primary']").click()
 
     def checkoutSuccess(self):
-        return self.driver.find_element(*CheckoutPage.checkout_success)
+        self.driver.find_element(*CheckoutPage.checkout_success).click()
 #       driver.find_element(By.XPATH, "//button[@class='btn btn-success']").click()
+        confirm_page = ConfirmPage(self.driver)
+        return confirm_page
+
 
 
