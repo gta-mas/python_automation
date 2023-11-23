@@ -32,9 +32,9 @@ def cross_browser(request):
 #     parser.addoption(
 #         "--browser_name", action="store", default="chrome"
 #     )
-=======================================================================================
+#=======================================================================================
 #commands to setup a command line options for browser selection:
-#browser_name = request.config.getOption("browser_name")
+#browser_name = request.config.getoption("browser_name")
 #     if browser_name == "chrome":
 #         chrome_options = Options()
 #         chrome_options.add_argument("--disable-exit-after-done")
@@ -51,7 +51,7 @@ def cross_browser(request):
 #
 #     driver.get("https://rahulshettyacademy.com/angularpractice/")
 #     driver.maximize_window()
-======================================================================================
+#======================================================================================
 
 
 @pytest.fixture(scope="class")
