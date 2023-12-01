@@ -1,0 +1,6 @@
+2023-11-21 18:06:32,821 :INFO :test_edit_profile :Joe
+2023-11-21 18:06:32,821 :INFO :test_edit_profile :website.com
+2023-11-21 18:09:16,493 :INFO :test_edit_profile :Joe
+2023-11-21 18:09:16,493 :INFO :test_edit_profile :website.com
+2023-11-21 18:09:16,495 :CRITICAL :pytestss_demo.test_logging :A critical error statement executes
+2023-12-01 17:34:35,952 :CRITICAL :pytest_demo.test_logging :A critical error statement executes
