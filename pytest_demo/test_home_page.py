@@ -24,7 +24,13 @@ class TestHomePage(BaseClass):
         # CSS Selector formula: tagname[attribute="attribute"], #id, .classname
         # Xpath formula: //tagname[@attribute="attribute"]
         # driver.find_element(By.CSS_SELECTOR, "input[name='name']").send_keys("Tvoja mac")
+
+        log = self.get_logger()
+
         home_page = HomePage(self.driver)
+
+        log.info("Name is: " + getData["name"])
+
         home_page.getName().send_keys(getData["name"])
 
         # driver.find_element(By.NAME, "email").send_keys("abcd@gmail.com")

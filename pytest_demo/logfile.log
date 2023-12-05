@@ -4,3 +4,69 @@
 2023-11-21 18:09:16,493 :INFO :test_edit_profile :website.com
 2023-11-21 18:09:16,495 :CRITICAL :pytestss_demo.test_logging :A critical error statement executes
 2023-12-01 17:34:35,952 :CRITICAL :pytest_demo.test_logging :A critical error statement executes
+2023-12-05 13:16:27,033 :INFO :test_e2e :Card Titles
+2023-12-05 13:16:27,078 :INFO :test_e2e :iphone X
+2023-12-05 13:16:27,091 :INFO :test_e2e :Samsung Note 8
+2023-12-05 13:16:27,102 :INFO :test_e2e :Nokia Edge
+2023-12-05 13:16:27,112 :INFO :test_e2e :Blackberry
+2023-12-05 13:16:27,244 :INFO :test_e2e :Typing Country Name
+2023-12-05 13:16:32,482 :INFO :test_e2e :Assertion successful: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-05 13:20:51,256 :INFO :test_e2e :Card Titles
+2023-12-05 13:20:51,287 :INFO :test_e2e :iphone X
+2023-12-05 13:20:51,300 :INFO :test_e2e :Samsung Note 8
+2023-12-05 13:20:51,312 :INFO :test_e2e :Nokia Edge
+2023-12-05 13:20:51,321 :INFO :test_e2e :Blackberry
+2023-12-05 13:20:51,450 :INFO :test_e2e :Typing Country Name
+2023-12-05 13:20:56,835 :INFO :test_e2e :Assertion successful: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-05 13:20:59,815 :INFO :test_form_submission :Name is: Tvoja mac
+2023-12-05 13:21:00,390 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-05 13:21:00,390 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-05 13:38:23,488 :INFO :test_form_submission :Name is: Tvoja mac
+2023-12-05 13:38:24,104 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-05 13:38:24,104 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-05 13:39:08,274 :INFO :test_e2e :Card Titles
+2023-12-05 13:39:08,309 :INFO :test_e2e :iphone X
+2023-12-05 13:39:08,323 :INFO :test_e2e :Samsung Note 8
+2023-12-05 13:39:08,338 :INFO :test_e2e :Nokia Edge
+2023-12-05 13:39:08,349 :INFO :test_e2e :Blackberry
+2023-12-05 13:39:08,490 :INFO :test_e2e :Typing Country Name
+2023-12-05 13:39:13,759 :INFO :test_e2e :Assertion successful: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-05 13:39:16,839 :INFO :test_form_submission :Name is: Tvoja mac
+2023-12-05 13:39:17,445 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-05 13:39:17,445 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-05 13:51:56,457 :INFO :test_e2e :Card Titles
+2023-12-05 13:51:56,490 :INFO :test_e2e :iphone X
+2023-12-05 13:51:56,502 :INFO :test_e2e :Samsung Note 8
+2023-12-05 13:51:56,519 :INFO :test_e2e :Nokia Edge
+2023-12-05 13:51:56,535 :INFO :test_e2e :Blackberry
+2023-12-05 13:51:56,697 :INFO :test_e2e :Typing Country Name
+2023-12-05 13:52:01,982 :INFO :test_e2e :Assertion successful: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-05 13:52:04,893 :INFO :test_form_submission :Name is: Tvoja mac
+2023-12-05 13:52:05,497 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-05 13:52:05,497 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-05 13:57:51,652 :INFO :test_e2e :Card Titles
+2023-12-05 13:57:51,725 :INFO :test_e2e :iphone X
+2023-12-05 13:57:51,743 :INFO :test_e2e :Samsung Note 8
+2023-12-05 13:57:51,754 :INFO :test_e2e :Nokia Edge
+2023-12-05 13:57:51,765 :INFO :test_e2e :Blackberry
+2023-12-05 13:57:51,905 :INFO :test_e2e :Typing Country Name
+2023-12-05 13:57:57,708 :INFO :test_e2e :Assertion successful: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-05 13:58:00,696 :INFO :test_form_submission :Name is: Tvoja mac
+2023-12-05 13:58:01,311 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-05 13:58:01,311 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-05 13:58:24,389 :INFO :test_e2e :Card Titles
+2023-12-05 13:58:24,423 :INFO :test_e2e :iphone X
+2023-12-05 13:58:24,435 :INFO :test_e2e :Samsung Note 8
+2023-12-05 13:58:24,447 :INFO :test_e2e :Nokia Edge
+2023-12-05 13:58:24,456 :INFO :test_e2e :Blackberry
+2023-12-05 13:58:24,590 :INFO :test_e2e :Typing Country Name
+2023-12-05 13:58:29,917 :INFO :test_e2e :Assertion successful: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-05 13:58:33,009 :INFO :test_form_submission :Name is: Tvoja mac
+2023-12-05 13:58:33,642 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-05 13:58:33,642 :INFO :test_form_submission :Name is: Tvoj ocec
