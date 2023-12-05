@@ -26,26 +26,24 @@ class TestHomePage(BaseClass):
         home_page.getName().send_keys("Tvoja mac")
 
         # driver.find_element(By.NAME, "email").send_keys("abcd@gmail.com")
-        home_page.email().send_keys("abcd@gmail.com")
+        home_page.getEmail().send_keys("abcd@gmail.com")
 
         # driver.find_element(By.ID, "exampleInputPassword1").send_keys("123456")
-        home_page.password().send_keys("123456")
+        home_page.getPassword().send_keys("123456")
 
         # driver.find_element(By.ID, "exampleCheck1").click()
-        home_page.checkbox().click()
+        home_page.checkBox().click()
 
         # dropdown menu
-        dropdown = Select(home_page.gender().click())
+        dropdown = Select(home_page.getGender())
         dropdown.select_by_visible_text("Male")
-        time.sleep(2)
-        dropdown.select_by_index(0)
+        # dropdown.select_by_index(0)
         # dropdown.select_by_value("value_name")
-        time.sleep(2)
 
         #driver.find_element(By.XPATH, "//input[@type='submit']").click()
-        home_page.submit().click()
+        home_page.submitButton().click()
 
-        message = home_page.success_message().text
+        message = home_page.getSuccess().text
         print(message)
 
         assert "Success" in message

@@ -11,7 +11,7 @@ class HomePage:
 
     shop = (By.CSS_SELECTOR, "a[href*='shop']")
     name = (By.CSS_SELECTOR, "input[name='name']")
-    email = (By.NAME, "email")
+    email_field = (By.NAME, "email")
     password = (By.ID, "exampleInputPassword1")
     checkbox = (By.ID, "exampleCheck1")
     gender = (By.ID, "exampleFormControlSelect1")
@@ -29,7 +29,7 @@ class HomePage:
 #       driver.find_element(By.CSS_SELECTOR, "input[name='name']")
 
     def getEmail(self):
-        return self.driver.find_element(*HomePage.email)
+        return self.driver.find_element(*HomePage.email_field)
 #       driver.find_element(By.NAME, "email")
 
     def getPassword(self):
