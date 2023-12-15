@@ -58,6 +58,6 @@ class TestHomePage(BaseClass):
         assert "Success" in message
         self.driver.refresh()
 
-    @pytest.fixture(params=HomePageData.test_home_page_data)
+    @pytest.fixture(params=HomePageData.get_test_data("Testcase2"))
     def getData(self, request):
         return request.param
