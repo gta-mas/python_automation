@@ -14,28 +14,28 @@
 #for reporting: python -m pytest --html=report.html
 #logging levels: debug, info, warning, error, critical
 
-import pytest
-
-
-@pytest.fixture()
-def setup():
-    print("First execution")
-    yield
-    print("Last execution")
-
-
-def test_fixture_demo(setup):
-    print("Executing steps in fixture_demo method")
-
-@pytest.mark.smoke
-def test_first_program():
-    print("Hello")
-
-
-@pytest.mark.xfail
-def test_second_greeting_card():
-    print("Wazzup")
-
-
-def test_cross_browser(cross_browser):
-    print(cross_browser[0])
+# import pytest
+#
+#
+# @pytest.fixture()
+# def setup():
+#     print("First execution")
+#     yield
+#     print("Last execution")
+#
+#
+# def test_fixture_demo(setup):
+#     print("Executing steps in fixture_demo method")
+#
+# @pytest.mark.smoke
+# def test_first_program():
+#     print("Hello")
+#
+#
+# @pytest.mark.xfail
+# def test_second_greeting_card():
+#     print("Wazzup")
+#
+#
+# def test_cross_browser(cross_browser):
+#     print(cross_browser[0])

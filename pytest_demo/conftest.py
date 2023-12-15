@@ -28,10 +28,10 @@ def cross_browser(request):
     return request.param
 
 #command line hook to select specific browser/default to a specific browser
-# def pytest_addoption(parser):
-#     parser.addoption(
-#         "--browser_name", action="store", default="chrome"
-#     )
+def pytest_addoption(parser):
+    parser.addoption(
+        "--browser_name", action="store", default="chrome"
+    )
 #=======================================================================================
 #commands to setup a command line options for browser selection:
 #browser_name = request.config.getoption("browser_name")

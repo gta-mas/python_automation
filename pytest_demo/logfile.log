@@ -70,3 +70,92 @@ Success! Thank you! Your order will be delivered in next few weeks :-).
 2023-12-05 13:58:33,009 :INFO :test_form_submission :Name is: Tvoja mac
 2023-12-05 13:58:33,642 :INFO :test_form_submission :Name is: Tvoj ocec
 2023-12-05 13:58:33,642 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-12 17:22:16,782 :INFO :test_e2e :Card Titles
+2023-12-12 17:22:16,834 :INFO :test_e2e :iphone X
+2023-12-12 17:22:16,855 :INFO :test_e2e :Samsung Note 8
+2023-12-12 17:22:16,875 :INFO :test_e2e :Nokia Edge
+2023-12-12 17:22:16,895 :INFO :test_e2e :Blackberry
+2023-12-12 17:22:17,034 :INFO :test_e2e :Typing Country Name
+2023-12-12 17:22:22,361 :INFO :test_e2e :Assertion successful: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-12 17:22:25,263 :INFO :test_form_submission :Name is: Tvoja mac
+2023-12-12 17:22:25,832 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-12 17:22:25,832 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-12 17:25:11,990 :INFO :test_e2e :Card Titles
+2023-12-12 17:25:12,022 :INFO :test_e2e :iphone X
+2023-12-12 17:25:12,034 :INFO :test_e2e :Samsung Note 8
+2023-12-12 17:25:12,043 :INFO :test_e2e :Nokia Edge
+2023-12-12 17:25:12,066 :INFO :test_e2e :Blackberry
+2023-12-12 17:25:12,214 :INFO :test_e2e :Typing Country Name
+2023-12-12 17:25:17,455 :INFO :test_e2e :Assertion successful: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-12 17:25:20,338 :INFO :test_form_submission :Name is: Tvoja mac
+2023-12-12 17:25:20,922 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-12 17:25:20,922 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-12 17:49:06,202 :INFO :test_e2e :Card Titles
+2023-12-12 17:49:06,253 :INFO :test_e2e :iphone X
+2023-12-12 17:49:06,265 :INFO :test_e2e :Samsung Note 8
+2023-12-12 17:49:06,275 :INFO :test_e2e :Nokia Edge
+2023-12-12 17:49:06,286 :INFO :test_e2e :Blackberry
+2023-12-12 17:49:06,439 :INFO :test_e2e :Typing Country Name
+2023-12-12 17:49:11,749 :INFO :test_e2e :Assertion successful: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-12 17:49:14,706 :INFO :test_form_submission :Name is: Tvoja mac
+2023-12-12 17:49:15,275 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-12 17:49:15,275 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-12 18:18:06,738 :INFO :test_e2e :Card Titles
+2023-12-12 18:18:06,769 :INFO :test_e2e :iphone X
+2023-12-12 18:18:06,781 :INFO :test_e2e :Samsung Note 8
+2023-12-12 18:18:06,792 :INFO :test_e2e :Nokia Edge
+2023-12-12 18:18:06,817 :INFO :test_e2e :Blackberry
+2023-12-12 18:18:06,978 :INFO :test_e2e :Typing Country Name
+2023-12-12 18:18:12,275 :INFO :test_e2e :Assertion successful: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-12 18:18:16,552 :INFO :test_form_submission :Name is: Tvoja mac
+2023-12-12 18:18:17,135 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-12 18:18:17,135 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-12 18:22:42,705 :INFO :test_e2e :Card Titles
+2023-12-12 18:22:42,746 :INFO :test_e2e :iphone X
+2023-12-12 18:22:42,759 :INFO :test_e2e :Samsung Note 8
+2023-12-12 18:22:42,772 :INFO :test_e2e :Nokia Edge
+2023-12-12 18:22:42,784 :INFO :test_e2e :Blackberry
+2023-12-12 18:22:42,924 :INFO :test_e2e :Typing Country Name
+2023-12-12 18:22:48,685 :INFO :test_e2e :Assertion successful: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-12 18:22:51,497 :INFO :test_form_submission :Name is: Tvoja mac
+2023-12-12 18:22:52,108 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-12 18:22:52,108 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-12 18:26:38,783 :INFO :test_e2e :Card Titles
+2023-12-12 18:26:38,823 :INFO :test_e2e :iphone X
+2023-12-12 18:26:38,835 :INFO :test_e2e :Samsung Note 8
+2023-12-12 18:26:38,847 :INFO :test_e2e :Nokia Edge
+2023-12-12 18:26:38,859 :INFO :test_e2e :Blackberry
+2023-12-12 18:26:39,003 :INFO :test_e2e :Typing Country Name
+2023-12-12 18:26:44,343 :INFO :test_e2e :Assertion successful: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-12 18:26:47,328 :INFO :test_form_submission :Name is: Tvoja mac
+2023-12-12 18:26:47,937 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-12 18:26:47,937 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-13 17:59:29,627 :INFO :test_e2e :Card Titles
+2023-12-13 17:59:29,663 :INFO :test_e2e :iphone X
+2023-12-13 17:59:29,679 :INFO :test_e2e :Samsung Note 8
+2023-12-13 17:59:29,692 :INFO :test_e2e :Nokia Edge
+2023-12-13 17:59:29,704 :INFO :test_e2e :Blackberry
+2023-12-13 17:59:29,873 :INFO :test_e2e :Typing Country Name
+2023-12-13 17:59:35,094 :INFO :test_e2e :Assertion successful: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-13 17:59:38,003 :INFO :test_form_submission :Name is: Tvoja mac
+2023-12-13 17:59:38,615 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-13 17:59:38,615 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-13 18:01:51,426 :INFO :test_e2e :Card Titles
+2023-12-13 18:01:51,504 :INFO :test_e2e :iphone X
+2023-12-13 18:01:51,532 :INFO :test_e2e :Samsung Note 8
+2023-12-13 18:01:51,560 :INFO :test_e2e :Nokia Edge
+2023-12-13 18:01:51,587 :INFO :test_e2e :Blackberry
+2023-12-13 18:01:51,747 :INFO :test_e2e :Typing Country Name
+2023-12-13 18:01:57,006 :INFO :test_e2e :Assertion successful: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-12-13 18:01:59,873 :INFO :test_form_submission :Name is: Tvoja mac
+2023-12-13 18:02:00,469 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-13 18:02:00,469 :INFO :test_form_submission :Name is: Tvoj ocec
+2023-12-15 20:56:00,925 :INFO :test_form_submission :Name is: Tvoj ocec

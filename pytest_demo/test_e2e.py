@@ -70,5 +70,5 @@ class TestOne(BaseClass):
 
         log.info("Assertion successful: " + success_text)
 
-        assert "Success! Thank you mofo!" in success_text
+        assert "Success! Thank you!" in success_text
 
